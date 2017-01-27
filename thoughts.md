@@ -1,0 +1,2 @@
+<h1>Thoughts During Project</h1>
+This definitely started very frustrating, as I kept having to go back to DevCamp videos and hack pieces of information back and forth between videos and my actual first try. I ended Googling a lot, which I felt was cheating, but I did it anyway. It helped a bit, but left me with more questions, such as the difference between <div> and <nav> links, and why I could use both with no difference to the output. I just finished my first try, and I'm sort of discouraged, but I also haven't tried to style it yet, so here's to that next. 
